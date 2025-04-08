@@ -9,6 +9,7 @@ This Power BI dashboard provides an overview of stock symbol data sourced direct
 ## Objective
 
 To visualize global stock listings and help users identify trends based on currency, market identifier codes (MIC), and stock types.
+(Scheduled refresh supported in Power BI Service (Pro), currently using manual refresh due to license limitations.)
 
 ---
 
